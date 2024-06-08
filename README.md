@@ -15,12 +15,12 @@
   - Gain experience writing and executing non-web server Node.js JavaScript code
 
 ## Folder Example
-![folder](https://raw.githubusercontent.com/kristiechu/cit281-project1/blob/main/p1-folders.png)
+![folder](https://raw.githubusercontent.com/kristiechu/cit281-project1/main/p1-folders.png)
 
 ## P1 Date Example
-![p1-date](https://raw.githubusercontent.com/kristiechu/cit281-project1/blob/main/p1-date.js)
+![p1-date](https://raw.githubusercontent.com/kristiechu/cit281-project1/main/p1-date.js)
 
 ## P1 Random Example
-![p1-random](https://raw.githubusercontent.com/kristiechu/cit281-project1/blob/main/p1-random.js)
+![p1-random](https://raw.githubusercontent.com/kristiechu/cit281-project1/main/p1-random.js)
 
 
